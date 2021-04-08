@@ -33,15 +33,19 @@ We provide one processed dataset: MovieLens 100K and a part of the real-valued e
 ML100K_train.txt
 * train file
 * each line is a training instance: userID, itemID, rating
+
 ML100K_valid.txt
 * valid file
 * each line is a valid instance: userID, itemID, rating
+
 ML100K_test.txt
 * test file
 * each line is a test instance: userID, itemID, rating
+
 P_8_4.csv('8' refers to n_factors, '4' refers to the k value of NDCG@k)
 * real-valued embedding of users from well-trained matrix factorization
 * the first number of each line is the user ID, and the rest is user's real-valued embedding
+
 Q_8_4.csv('8' refers to n_factors, '4' refers to the k value of NDCG@k)
 * real-valued embedding of items from well-trained matrix factorization
 * the first number of each line is the item ID, and the rest is item's real-valued embedding
