@@ -3,7 +3,7 @@ This is our implementation for the paper:
 
 Jun Wu, Fangyuan Luo, Yujia Zhang, Haishuai Wang. Semi-discrete Matrix Factorization. IEEE Intelligent System. 35(5): 73-83 (2020)
 
-**Please cite our WWW'17 paper if you use our codes. Thanks!**
+**Please cite our paper if you use our codes. Thanks!**
 
 @article{DBLP:journals/expert/WuLZW20,
   author    = {Jun Wu and
