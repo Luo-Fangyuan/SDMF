@@ -5,7 +5,8 @@ Jun Wu, Fangyuan Luo, Yujia Zhang, Haishuai Wang. Semi-discrete Matrix Factoriza
 
 **Please cite our paper if you use our codes. Thanks!**
 
-@article{DBLP:journals/expert/WuLZW20,
+```
+@article{Wu20SDMF,
   author    = {Jun Wu and
                Fangyuan Luo and
                Yujia Zhang and
@@ -15,13 +16,9 @@ Jun Wu, Fangyuan Luo, Yujia Zhang, Haishuai Wang. Semi-discrete Matrix Factoriza
   volume    = {35},
   number    = {5},
   pages     = {73--83},
-  year      = {2020},
-  url       = {https://doi.org/10.1109/MIS.2020.3016944},
-  doi       = {10.1109/MIS.2020.3016944},
-  timestamp = {Wed, 04 Nov 2020 08:43:08 +0100},
-  biburl    = {https://dblp.org/rec/journals/expert/WuLZW20.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  year      = {2020}
 }
+```
 
 # Environment Settings
 python version: 3.7
